@@ -3,7 +3,7 @@
     <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2014/01/dna-microarrays4.jpg" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Statistical Analysis of High-Throughput Genomic and Transcriptomic Data</h3>
 
   <p align="center">
     Short description
