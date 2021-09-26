@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2014/01/dna-microarrays4.jpg" alt="Logo" width=72 height=72>
+    <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2014/01/dna-microarrays4.jpg" alt="Logo" width=300 height=300>
   </a>
 
   <h3 align="center">Statistical Analysis of High-Throughput Genomic and Transcriptomic Data</h3>
@@ -68,9 +68,9 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 ## Creators
 
-**Creator 1**
+**Repo of the course**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/sta426hs2021/material>
 
 ## Thanks
 
