@@ -6,7 +6,7 @@
   <h3 align="center">Statistical Analysis of High-Throughput Genomic and Transcriptomic Data</h3>
 
   <p align="center">
-    Short description
+    Fall/Herbst-semester 2021 at UZH
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
