@@ -14,6 +14,9 @@
   </p>
 </p>
 
+## Important
+
+This is a temporal document taken from <https://github.com/Ismaestro/markdown-template> with introductory purposes. 
 
 ## Table of contents
 
