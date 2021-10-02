@@ -53,6 +53,8 @@ git push -u origin lecture-notes
 
 ```
 
+# Link to 1st week lecture
 
+<https://tube.switch.ch/channels/RWOtNGIrWT>
 
 
