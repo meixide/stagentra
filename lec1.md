@@ -28,3 +28,31 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# Cloning and branching 
+
+
+```{bash}
+cd ~/repodir
+git clone https://github.com/garcia-mc/stagentra.git
+
+cd stagentra
+git status
+git log
+
+git branch lecture-notes
+git branch # check in which branch are we 
+
+git checkout lecture-notes #change to another branch 
+
+git add lec1.md
+git commit -m "new md file added"
+git push -u origin lecture-notes
+
+
+
+```
+
+
+
+
