@@ -61,7 +61,7 @@ git push
 
 - Statistical evidence involves magnitude of change / variability
 
-**In additon**
+**In addition**
 - [Spearman correlation](#Spearman-correlation])
 - [Boxplots facts](#Boxplots)
 - [Rstudio and git](#Rstudio)
