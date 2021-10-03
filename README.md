@@ -17,7 +17,7 @@
 <https://github.com/garcia-mc/stagentra/tree/main/ex1b>
 
 
-# Link to exercise 2a
+# Link to exercise 2b (pending pull request)
 
 <https://github.com/garcia-mc/cirseq>
 
