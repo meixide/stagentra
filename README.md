@@ -38,7 +38,7 @@ git checkout lecture-notes #change to another branch
 
 git add lec1.md
 git commit -m "new md file added"
-git push -u origin lecture-notes
+git push 
 
 
 
