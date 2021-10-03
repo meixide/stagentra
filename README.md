@@ -46,9 +46,15 @@ git push -u origin lecture-notes
 
 <https://tube.switch.ch/channels/RWOtNGIrWT>
 
+# Ideas from first week lecture
 
-# Ideas from first lecture
 - Statistical evidence involves magnitude of change / variability
+
+**Index**
+- [Spearman correlation](#Spearman correlation])
+- [Boxplots facts](#Boxplots)
+- [Rstudio and git](#Rstudio)
+
 
 ## Spearman correlation
 - https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient 
@@ -58,7 +64,7 @@ git push -u origin lecture-notes
 ## Boxplots
 - Can look similar if one is taken from an unimodal distribution and the other from bimodal
 - Can look different when sample size is small even when underlying dist is the same
-- Thoy do not show density 
+- They do not show density 
 
 ## Rstudio
 - New project > version control > git 
@@ -66,21 +72,6 @@ git push -u origin lecture-notes
 
 # Important
 
-This has been taken from the template <https://github.com/Ismaestro/markdown-template> with introductory purposes. 
+This is inspired on the template <https://github.com/Ismaestro/markdown-template> 
 
-# Table of contents
-
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
-
-
-**Repo of the course**
-
-- <https://github.com/sta426hs2021/material>
 
