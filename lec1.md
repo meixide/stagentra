@@ -29,6 +29,10 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+# Course repo 
+
+<https://github.com/sta426hs2021/material>
+
 # Cloning and branching 
 
 
@@ -58,3 +62,6 @@ git push -u origin lecture-notes
 <https://tube.switch.ch/channels/RWOtNGIrWT>
 
 
+# Ideas first lecture
+- Statistical evidence involves magnitude of change / variability
+- 
