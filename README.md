@@ -12,6 +12,10 @@
   </p>
 </p>
 
+# Link to exercise 1b
+
+<https://github.com/garcia-mc/stagentra/ex1b>
+
 # Course repo 
 
 <https://github.com/sta426hs2021/material>
