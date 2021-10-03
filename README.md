@@ -41,6 +41,15 @@ git commit -m "new md file added"
 git push 
 
 
+```
+# Merging
+
+
+
+```{bash}
+git checkout main
+git merge lecture-notes
+git push
 
 ```
 
