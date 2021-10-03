@@ -8,9 +8,7 @@
   <p align="center">
     Fall/Herbst-semester 2021 at UZH
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+   
   </p>
 </p>
 
@@ -50,8 +48,8 @@ git push -u origin lecture-notes
 
 - Statistical evidence involves magnitude of change / variability
 
-**Index**
-- [Spearman correlation](#Spearman correlation])
+**In additon**
+- [Spearman correlation](#Spearman-correlation])
 - [Boxplots facts](#Boxplots)
 - [Rstudio and git](#Rstudio)
 
