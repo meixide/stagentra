@@ -14,11 +14,61 @@
   </p>
 </p>
 
-## Important
+# Course repo 
 
-This is a temporal template taken from <https://github.com/Ismaestro/markdown-template> with introductory purposes. 
+<https://github.com/sta426hs2021/material>
 
-## Table of contents
+# Cloning and branching 
+
+
+```{bash}
+cd ~/repodir
+git clone https://github.com/garcia-mc/stagentra.git
+
+cd stagentra
+git status
+git log
+
+git branch lecture-notes
+git branch # check in which branch are we 
+
+git checkout lecture-notes #change to another branch 
+
+git add lec1.md
+git commit -m "new md file added"
+git push -u origin lecture-notes
+
+
+
+```
+
+# Link to 1st week lecture
+
+<https://tube.switch.ch/channels/RWOtNGIrWT>
+
+
+# Ideas from first lecture
+- Statistical evidence involves magnitude of change / variability
+
+## Spearman correlation
+- https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient 
+- Measures monotonicity 
+- More sensitive than Pearson to outliers bc Spearman only depends on ranks (drops data)
+
+## Boxplots
+- Can look similar if one is taken from an unimodal distribution and the other from bimodal
+- Can look different when sample size is small even when underlying dist is the same
+- Thoy do not show density 
+
+## Rstudio
+- New project > version control > git 
+
+
+# Important
+
+This has been taken from the template <https://github.com/Ismaestro/markdown-template> with introductory purposes. 
+
+# Table of contents
 
 - [Quick start](#quick-start)
 - [Status](#status)
@@ -30,57 +80,7 @@ This is a temporal template taken from <https://github.com/Ismaestro/markdown-te
 - [Copyright and license](#copyright-and-license)
 
 
-## Quick start
-
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
-
-## Status
-
-Here goes all the budgets
-
-## What's included
-
-Some text
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
-## Creators
-
 **Repo of the course**
 
 - <https://github.com/sta426hs2021/material>
 
-## Thanks
-
-Some Text
-
-## Copyright and license
-
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
