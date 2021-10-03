@@ -62,6 +62,18 @@ git push -u origin lecture-notes
 <https://tube.switch.ch/channels/RWOtNGIrWT>
 
 
-# Ideas first lecture
+# Ideas from first lecture
 - Statistical evidence involves magnitude of change / variability
-- 
+
+## Spearman correlation
+- https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient 
+- Measures monotonicity 
+- More sensitive than Pearson to outliers bc Spearman only depends on ranks (drops data)
+
+## Boxplots
+- Can look similar if one is taken from an unimodal distribution and the other from bimodal
+- Can look different when sample size is small even when underlying dist is the same
+- Thoy do not show density 
+
+## Rstudio
+- New project > version control > git 
