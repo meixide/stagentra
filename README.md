@@ -14,7 +14,7 @@
 
 # Link to exercise 1b
 
-<https://github.com/garcia-mc/stagentra/ex1b>
+<https://github.com/garcia-mc/stagentra/tree/main/ex1b>
 
 # Course repo 
 
