@@ -16,6 +16,11 @@
 
 <https://github.com/garcia-mc/stagentra/tree/main/ex1b>
 
+
+# Link to exercise 2a
+
+<https://github.com/garcia-mc/cirseq>
+
 # Course repo 
 
 <https://github.com/sta426hs2021/material>
